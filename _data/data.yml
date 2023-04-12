@@ -119,27 +119,27 @@ projects:
     assignments:
       - title: "Development of Tactile Substitution Platform of Visual Information"
         link: 
-        tagline: "ETRI, 2022. 05 - 2022. 10"
+        tagline: "ETRI, 2022.05 - 2022.10"
         
       - title: "Automatic Authoring of Physical and Perceptual/Affective Motion Effects for Virtual Reality"
         link: 
-        tagline: "Samsung Research Funding & Incubation Center for Future Technology, 2018. 12 - Present"
+        tagline: "Samsung Research Funding & Incubation Center for Future Technology, 2018.12 - Present"
         
       - title: "Robot Technology for Fire Monitoring in Culverts Based on Teleoperation and Rail Navigation"
         link: 
-        tagline: "POSCO, 2018. 09 - 2018. 07"
+        tagline: "POSCO, 2018.09 - 2018.07"
         
       - title: "A Multi-Disciplinary Study for VR-based and Personalized Solution to Improve National Mental Health"
         link: 
-        tagline: "NRF, 2018. 01 - 2018. 12"
+        tagline: "NRF, 2018.01 - 2018.12"
         
       - title: "User Experience Augmentation Adaptive to Environmental Sensorimotor Stimuli"
         link: 
-        tagline: "i-Lab/CiTE Support Program for Fundamental Research, POSTECH, 2017. 01 - 2017. 12"
+        tagline: "i-Lab/CiTE Support Program for Fundamental Research, POSTECH, 2017.01 - 2017.12"
         
       - title: "VR Gear App for Displaying 360° Imagery, Building a 360 Photo and Video Rendering App for Gear VR"
         link: 
-        tagline: "Samsung Heavy Industry, 2016. 09 - 2016. 11"        
+        tagline: "Samsung Heavy Industry, 2016.09 - 2016.11"        
 
 # oss:
 #     title: Research Interests
