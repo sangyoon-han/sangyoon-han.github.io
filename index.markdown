@@ -11,11 +11,11 @@ layout: default
 
 {% include oss-contributions.html %}
 
-{% include experiences.html %}
+{% include publications.html %}
 
 {% include projects.html %}
 
-{% include publications.html %}
+{% include experiences.html %}
 
 {% include skills.html %}
 
