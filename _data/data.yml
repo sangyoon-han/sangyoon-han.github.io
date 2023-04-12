@@ -209,7 +209,9 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-
+    intro: |
+      asdfasdfa
+        - asdfasdf
     toolset:
       - name: Python & Django
         level: 
