@@ -209,26 +209,17 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-    intro: |
-      asdfasdfa
-        - asdfasdf
     toolset:
-      - name: Python & Django
-        level: 
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: C/C++
         level: 95%
 
-      - name: Ruby on Rails
+      - name: MATLAB
+        level: 98%
+
+      - name: Unity & Unreal Engine
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python
+        level: 70%
 
 footer: 
