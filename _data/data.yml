@@ -139,7 +139,7 @@ projects:
         
       - title: "VR Gear App for Displaying 360° Imagery, Building a 360 Photo and Video Rendering App for Gear VR"
         link: 
-        tagline: "Samsung Heavy Industry, 2016.09 - 2016.11"        
+        tagline: "Samsung Heavy Industry, 2016.09 - 2016. 11"        
 
 # oss:
 #     title: Research Interests
@@ -212,7 +212,7 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 
 
       - name: Javascript & jQuery
         level: 98%
