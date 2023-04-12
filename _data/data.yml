@@ -163,20 +163,17 @@ oss:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Information Transfer of Full-Body Vibrotactile Stimuli: An Initial Study with One to Three Sequential Vibrations"
+        link: 
+        authors: Jaejun Park, Junwoo Kim, Sangyoon Han, Chaeyong Park, Junseok Park, and Seungmoon Choi
+        conference: "In Proceedings of the IEEE World Haptics Conference (WHC), 2023"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Generating Haptic Motion Effects for Multiple Articulated Bodies for Improved 4D Experiences: A Camera Space Approach"
+        link: 
+        authors: Sangyoon Han, Jaejun Park, and Seungmoon Choi
+        conference: "ACM SIGCHI Conference on Human Factors in Computing Systems (CHI), 2023"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
