@@ -126,25 +126,29 @@ projects:
     title: Projects
     intro: 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: "Development of Tactile Substitution Platform of Visual Information"
+        link: 
+        tagline: "ETRI"
+        
+      - title: "Automatic Authoring of Physical and Perceptual/Affective Motion Effects for Virtual Reality"
+        link: 
+        tagline: "Samsung Research Funding & Incubation Center for Future Technology"
+        
+      - title: "Robot Technology for Fire Monitoring in Culverts Based on Teleoperation and Rail Navigation"
+        link: 
+        tagline: "POSCO"
+        
+      - title: "A Multi-Disciplinary Study for VR-based and Personalized Solution to Improve National Mental Health"
+        link: 
+        tagline: "NRF"
+        
+      - title: "User Experience Augmentation Adaptive to Environmental Sensorimotor Stimuli"
+        link: 
+        tagline: "i-Lab/CiTE Support Program for Fundamental Research, POSTECH"
+        
+      - title: "VR Gear App for Displaying 360° Imagery, Building a 360 Photo and Video Rendering App for Gear VR"
+        link: 
+        tagline: "Samsung Heavy Industry"        
 
 oss:
     title: OSS Contributions
