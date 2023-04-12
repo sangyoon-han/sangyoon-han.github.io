@@ -168,17 +168,42 @@ publications:
       - title: "Information Transfer of Full-Body Vibrotactile Stimuli: An Initial Study with One to Three Sequential Vibrations"
         link: 
         authors: Jaejun Park, Junwoo Kim, Sangyoon Han, Chaeyong Park, Junseok Park, and Seungmoon Choi
-        conference: "In Proceedings of the IEEE World Haptics Conference (WHC), 2023"
+        conference: "In Proceedings of the IEEE World Haptics Conference (WHC), 2023."
 
       - title: "Generating Haptic Motion Effects for Multiple Articulated Bodies for Improved 4D Experiences: A Camera Space Approach"
-        link: 
+        link: https://doi.org/10.1145/3544548.3580727
         authors: Sangyoon Han, Jaejun Park, and Seungmoon Choi
-        conference: "ACM SIGCHI Conference on Human Factors in Computing Systems (CHI), 2023"
+        conference: "ACM SIGCHI Conference on Human Factors in Computing Systems (CHI), 2023."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Motion Effects: Perceptual Space and Synthesis for Specific Perceptual Properties"
+        link: "https://doi.org/10.1109/TOH.2022.3196950"
+        authors: Sangyoon Han, Jiwan Lee, Gyeore Yun, Sung. H. Han, and Seungmoon Choi
+        conference: "IEEE Transactions on Haptics (ToH), vol. 15, no. 3, pp. 626-637, 2022."
+
+      - title: "Image-Based Texture Styling for Motion Effect Rendering"
+        link: "https://doi.org/10.1145/3489849.3489854"
+        authors: Beomsu Lim, Sangyoon Han, and Seungmoon Choi
+        conference: "In Proceedings of the 23rd ACM Symposium on Virtual Reality Software and Technology (VRST), Paper 20, 2021."
+
+      - title: "Improving Viewing Experiences of First-Person Shooter Gameplays with Automatically Generated Motion Effects"
+        link: "https://doi.org/10.1145/3411764.3445358"
+        authors: Gyeore Yun, Hyoseung Lee, Sangyoon Han, and Seungmoon Choi
+        conference: "ACM SIGCHI Conference on Human Factors in Computing Systems (CHI), Paper 320, 2021."
+
+      - title: "Camera Space Synthesis of Motion Effects Emphasizing a Moving Object in 4D Films"
+        link: "https://doi.org/10.1109/VR50410.2021.00093"
+        authors: Sangyoon Han, Gyeore Yun, Seungmoon Choi
+        conference: "In Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR), 2021."
+
+      - title: "Automatic Transfer of Musical Mood into Virtual Environments"
+        link: "https://doi.org/10.1145/3281505.3281534"
+        authors: Sangyoon Han, Amit Bhardwaj, Seungmoon Choi
+        conference: "In Proceedings of the 23rd ACM Symposium on Virtual Reality Software and Technology (VRST), 2018."
+        
+      - title: "Towards Automatic Synthesis of Motion Eﬀects"
+        link: "https://doi.org/10.1007/978-981-13-3194-7_73"
+        authors: Sangyoon Han, Jaebong Lee, and Seungmoon Choi
+        conference: "In Lecture Notes in Electrical Engineering (AsiaHaptics), 2018."
 
 skills:
     title: Skills &amp; Proficiency
