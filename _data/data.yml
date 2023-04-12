@@ -29,17 +29,14 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://drive.google.com/file/d/1rxKbF0rSnSlFER8Guihm6PCNztPkl98j/view
 
-    # languages:
-    #   title: Languages
-    #   info:
-    #     - idiom: English
-    #       level: Native
+    languages:
+      title: Languages
+      info:
+        - idiom: Korean
+          level: 
 
-    #     - idiom: French
-    #       level: Professional
-
-    #     - idiom: Spanish
-    #       level: Professional
+        - idiom: English
+          level: 
 
     # interests:
     #   title: Interests
