@@ -86,21 +86,20 @@ experiences:
     title: Experiences
     info:
       - role: Researcher
-        time: 2018. 02 ~ 2018. 06
+        time: 2018. 02 - 2018. 06
         company: I3B
         details: |
           Implementation of a Touch-Based Interactive System Using a Beam Projector          
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Technical Designer
+        time: 2017. 03 - 2018. 02
+        company: EN Group Co.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Art and Technology Collaboration Project      
+      - role: Intern
+        time: 2015. 07 - 2015. 08
+        company: SK Hynix
+        details: |
+          Development of SSD FTL (Flash Translation Layer) Simulator
       # - role: UI Developer
       #   time: 2012 - 2014
       #   company: Amazon, London
