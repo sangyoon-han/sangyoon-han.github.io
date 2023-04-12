@@ -57,7 +57,11 @@ career-profile:
     title: About
     summary: |
       Hello.
-        - asdf
+        - Multimodal Interaction in Metaverse
+        -	Automatic Synthesis and Rendering of Haptic Motion Effects
+        -	Multimodal and Crossmodal Perception of Visual, Vestibular, and Haptic Senses
+        -	Human-Computer Interaction
+
 education: 
     title: Education
     info:
@@ -140,27 +144,27 @@ projects:
         link: 
         tagline: "Samsung Heavy Industry, 2016. 09 ~ 2016. 11"        
 
-oss:
-    title: Research Interests
+# oss:
+#     title: Research Interests
 
-    intro: |
-      My research includes 
-    contributions:
-      - title: "Multimodal Interaction in Metaverse"
-        link: 
-        tagline: 
+#     intro: |
+#       My research includes 
+#     contributions:
+#       - title: "Multimodal Interaction in Metaverse"
+#         link: 
+#         tagline: 
 
-      - title: "Automatic Synthesis and Rendering of Haptic Motion Effects"
-        link: 
-        tagline: 
+#       - title: "Automatic Synthesis and Rendering of Haptic Motion Effects"
+#         link: 
+#         tagline: 
 
-      - title: "Multimodal and Crossmodal Perception of Visual, Vestibular, and Haptic Senses"
-        link: 
-        tagline: 
+#       - title: "Multimodal and Crossmodal Perception of Visual, Vestibular, and Haptic Senses"
+#         link: 
+#         tagline: 
 
-      - title: "Human-Computer Interaction"
-        link: 
-        tagline: 
+#       - title: "Human-Computer Interaction"
+#         link: 
+#         tagline: 
 
 publications:
     title: Publications
