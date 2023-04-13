@@ -141,28 +141,41 @@ projects:
         link: 
         tagline: "Samsung Heavy Industry, 2016.09 - 2016. 11"        
 
-# oss:
-#     title: Research Interests
+oss:
+    title: Skills &amp; Proficiency
+    contributions:
+      - title: "Programming"
+        link: 
+        tagline: "C/C++, C#, MATLAB, Python, Processing"
 
-#     intro: |
-#       My research includes 
-#     contributions:
-#       - title: "Multimodal Interaction in Metaverse"
-#         link: 
-#         tagline: 
+      - title: "Statistical Analysis"
+        link: 
+        tagline: "R, SAS"
 
-#       - title: "Automatic Synthesis and Rendering of Haptic Motion Effects"
-#         link: 
-#         tagline: 
+      - title: "Libraries"
+        link: 
+        tagline: "CHAI3D, OpenCV, OpenGL, FFMPEG"
 
-#       - title: "Multimodal and Crossmodal Perception of Visual, Vestibular, and Haptic Senses"
-#         link: 
-#         tagline: 
-
-#       - title: "Human-Computer Interaction"
-#         link: 
-#         tagline: 
-
+      - title: "Game Engines"
+        link: 
+        tagline: "Unity3D, Unreal Engine"
+        
+      - title: "Tools"
+        link: 
+        tagline: "LATEX, Adobe Photoshop/Premiere, Microsoft Office/Visual Studio"
+        
+      - title: "Haptic Interfaces"
+        link: 
+        tagline: "PHANTOM series"
+        
+      - title: "Virtual Reality"
+        link: 
+        tagline: "Oculus Rift, HTC Vive, Leap Motion, Tactile suit/glove, Eye tracker"
+        
+      - title: "Others"
+        link: 
+        tagline: "Vibrotactile actuators, DAQs, IMU/Motion sensors, 2/3/6-DoF Motion Platforms, Biosensors"
+        
 publications:
     title: Publications
     intro: 
