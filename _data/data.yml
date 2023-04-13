@@ -220,19 +220,19 @@ publications:
         authors: Sangyoon Han, Jaebong Lee, and Seungmoon Choi
         conference: "In Lecture Notes in Electrical Engineering (AsiaHaptics), 2018."
 
-skills:
-    title: Skills &amp; Proficiency
-    toolset:
-      - name: C/C++
-        level: 95%
+# skills:
+#     title: Skills &amp; Proficiency
+#     toolset:
+#       - name: C/C++
+#         level: 95%
 
-      - name: MATLAB
-        level: 98%
+#       - name: MATLAB
+#         level: 98%
 
-      - name: Unity & Unreal Engine
-        level: 85%
+#       - name: Unity & Unreal Engine
+#         level: 85%
 
-      - name: Python
-        level: 70%
+#       - name: Python
+#         level: 70%
 
 footer: 
