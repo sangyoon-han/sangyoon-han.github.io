@@ -9,7 +9,6 @@ layout: default
   {% include education.html %}
 {% endunless %}
 
-{% include oss-contributions.html %}
 
 {% include publications.html %}
 
@@ -17,8 +16,9 @@ layout: default
 
 {% include experiences.html %}
 
-{% include skills.html %}
+<!-- {% include skills.html %} -->
 
+{% include oss-contributions.html %}
 
 <!-- ---
 # Feel free to add content and custom Front Matter to this file.
